@@ -1,6 +1,6 @@
 # Yarn Spinner for Unity Samples 2.x
 
-This package contains samples previously included in Yarn Spinner v2. They're included here to make earlier samples available for people using older versions of Yarn Spinner.
+This package contains samples previously included in [Yarn Spinner for Unity v2](https://github.com/YarnSpinnerTool/YarnSpinner-Unity). They're included here to make earlier samples available for people using older versions of Yarn Spinner.
 
 To use this package, install it, and go to the Samples tab in the Package Manager window.
 
